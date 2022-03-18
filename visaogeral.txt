@@ -1,0 +1,6 @@
+o projeto tem como objetivo disponibilizar uma ferramenta de busca para filmes antigos
+
+requisitos
+RF01 um usuário autenticado deve poder cadastrar um filme
+RF02 cada filme deve ter as seguintes informações: nome, imagem, ano de lancamento, gênero, nota
+RF03 todo usuário deve poder consultar filmes por gênero
